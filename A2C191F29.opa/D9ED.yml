@@ -1,0 +1,27 @@
+segment_sources:
+  IF9A02F88:
+    type: origin_type
+    relation: translation
+    base: '2802'
+    lang: en
+  IF7F4EE8A:
+    type: origin_type
+    relation: translation
+    base: 2C2A
+    lang: bo
+segment_pairs:
+  7756721aee2147aaa541cb6392afe6fa:
+    IF9A02F88: 3a9e4568050b4ed095d61864dff74e2a
+    IF7F4EE8A: 348e55ebc4fc475796db61732265c3a9
+  1f86681d5c964ec78b567a22737016d8:
+    IF9A02F88: 51fb3775788742cb9274d136d8ca5dea
+    IF7F4EE8A: 97d2c2bf1da240f882a35b24504cd4dd
+  32a173f543f64fcf8230b9bac2b851be:
+    IF9A02F88: f87dd3862569436ab6d2d4751b46f292
+    IF7F4EE8A: 755f7b3430c2435d91a25ae0dc5cc1cd
+  81e8b3f7230949a09cf1867ee38620bf:
+    IF9A02F88: 8bce160a52fc4612a6619a7a41ce126a
+    IF7F4EE8A: c3481302aafb45e68e40d2ff588d820a
+  b4c5cccdcd124a24a25241f6def1c771:
+    IF9A02F88: 3774eb3fc21a4a858c17d75d3d94669c
+    IF7F4EE8A: c598246fd0c241dc860594fb0b4e01b0
